@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1575877087 source:f:\programes related to c nd c++\string copying\main.cpp
+	<iostream>
+	<string.h>
+

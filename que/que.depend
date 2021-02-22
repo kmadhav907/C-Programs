@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574059014 source:f:\programes related to c nd c++\que\main.cpp
+	<iostream>
+	<stdlib.h>
+	<process.h>
+

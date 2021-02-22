@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573882462 source:f:\programes related to c nd c++\ expressiontree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1572482675 source:f:\programes related to c nd c++\scientific calculaator\main.cpp
+	<iostream>
+	"manish.h"
+	"kedaar.h"
+	"mad.h"
+	<stdlib.h>
+	"maths.h"
+	<conio.h>
+
+1572425941 f:\programes related to c nd c++\scientific calculaator\manish.h
+	<math.h>
+	<iostream>
+
+1571887145 f:\programes related to c nd c++\scientific calculaator\kedaar.h
+	<iostream>
+	"manish.h"
+
+1571887362 f:\programes related to c nd c++\scientific calculaator\complex.h
+
+1572453057 f:\programes related to c nd c++\scientific calculaator\mad.h
+	<iostream>
+
+1572479168 f:\programes related to c nd c++\scientific calculaator\maths.h
+	<iostream>
+

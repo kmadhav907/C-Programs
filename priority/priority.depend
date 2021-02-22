@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1573760993 source:f:\programes related to c nd c++\priority\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+	<string.h>
+
